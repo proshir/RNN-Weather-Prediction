@@ -1,4 +1,5 @@
 # RNN for Weather Prediction
+The main objective of this project is to utilize TensorFlow's functionalities, such as the Functional API, custom models, callbacks, and plotting models, to build an intelligent system for weather prediction using RNNs.
 
 ## What is an RNN?
 
@@ -26,10 +27,6 @@ The dataset provides historical weather data, including precipitation, maximum a
 <div align="center">
   <img src="images/4.jpg" alt="Dataset" width="400">
 </div>
-
-## Project Goal
-
-The main objective of this project is to utilize TensorFlow's functionalities, such as the Functional API, custom models, callbacks, and plotting models, to build an intelligent system for weather prediction using RNNs.
 
 ## Model Architecture
 
